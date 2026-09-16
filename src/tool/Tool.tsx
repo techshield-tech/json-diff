@@ -1,5 +1,5 @@
 import { useCallback, useMemo, useState } from 'react';
-import { Button, CopyButton, ErrorBox, Panel, Select, TextArea, Toolbar } from '../shell/ui';
+import { Button, CopyButton, ErrorBox, Panel, Select, TextArea, Toolbar } from '@mmoall/tool-kit';
 import { diffJson, type ChangeType, type DiffEntry } from './diff-algorithm';
 import { toJsonPatch } from './json-patch';
 import { buildLineHighlights, prettyPrintWithRanges } from './pretty-print';
