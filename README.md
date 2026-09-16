@@ -5,6 +5,7 @@ Compare two JSON documents and see added, removed, and changed values — fast, 
 **Live:** https://techshield-tech.github.io/json-diff/
 
 Part of [MMOALL Developer Tools](https://mmoall.com/tools).
+Also available at [mmoall.com/tools/json-diff](https://mmoall.com/tools/json-diff).
 
 ## Features
 
